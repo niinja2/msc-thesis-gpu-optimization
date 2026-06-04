@@ -1,6 +1,9 @@
 # GPU Acceleration and Performance Optimization of the N-Body Problem
 
-MSc Thesis - University of Zagreb (2016)
+MSc Thesis – University of Zagreb (2016)
+
+Full thesis:
+[Rajko_Balen_Diplomski.pdf](Rajko_Balen_Diplomski.pdf)
 
 ## Summary
 
